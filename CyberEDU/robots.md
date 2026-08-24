@@ -3,7 +3,7 @@
 **Category:** Web \
 **Difficulty:** Easy \
 **Status:** Solved \
-**Flag:** CTF{Kr4ftw3rk_4nd_th3_r0b0ts} \
+**Flag:** `CTF{Kr4ftw3rk_4nd_th3_r0b0ts}` \
 **Tools:** curl, gobuster 
 
 ## Summary
