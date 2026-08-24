@@ -3,7 +3,7 @@
 **Category:** Forensics \
 **Difficulty:** Easy \
 **Status:** Solved \
-**Flag:** `SSS{m3m0ry_1s_3v3rywh3r3}` \
+**Flag:** `SSS{m3m0ry_1s_3v3rywh3r3}` 
 
 
 ## Summary
